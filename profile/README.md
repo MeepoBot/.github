@@ -11,6 +11,10 @@
 <h4>Admin</h4>
 <li><i><a href="https://discord.com/users/id/" target="_blank">EyNoah#1337</a></i></li>
 </p>
+
+
+
+
 <center>
 <footer>&copy; by EyNoah</footer>
 </center>
