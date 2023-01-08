@@ -14,6 +14,11 @@
 <br><br>
 
 
+
+<h2>➥ 📞 • Contact us</h2>
+<p>Website: <a href="https://meepo.github.io">Meepo.bot</a></p>
+<p>Discord: <a href="">Meepo Support</a></p>
+
 <center>
 <footer>&copy; by EyNoah</footer>
 </center>
