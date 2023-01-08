@@ -3,3 +3,11 @@
 <h2>➥ 🙋‍♀️ • Short Description</h2>
 
 <p>We are the <b>Development</b> team of the MeepoBot</p>
+
+<hr>
+<h2>➥ 👥 • Our Staff</h2>
+<br>
+<p>
+<h4>Admin</h4>
+<li><i><a href="https://discord.com/users/id/" target="_blank">EyNoah#1337</a></i></li>
+</p>
